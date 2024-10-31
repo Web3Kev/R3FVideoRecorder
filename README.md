@@ -39,4 +39,4 @@ The code above will ignore localhost.key and .crt when uploading to an online se
 when starting the dev server with 
 ```npm run dev```
 
-Your Vite project will now be accessible via https://localhost:3000.
+Your Vite project will now be accessible via ``` https://localhost:3000.```
